@@ -1,0 +1,207 @@
+{
+ "chunks": [
+  {
+   "chunk": "01",
+   "description": "Jild 10, pp. 9-78",
+   "end_page": 78,
+   "file": "jild-10-chunk-01.json",
+   "items": 9,
+   "pages_present": 16,
+   "start_page": 9,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 9 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 1/1 (as v3), notes 21 vs 13 (+8), glosses 17x 'کا مطلب' + 141x 'کہتے ہیں', A1=0, A2: original pp.9-78 has zero harsh terms; restorations: Arabic quotes in all 8 masail. Flags: pp.13-66 gap per v3 note; masala-7 ambiguous last sentence + masala-8-11 Q4 kept as-is per v3 notes. Last id is the combined range jild10-masala-8-11 (v3 id, kept exactly); only 16 pages present in pp.9-78 (big source gaps)."
+  },
+  {
+   "chunk": "02",
+   "description": "Jild 10, pp. 79-128",
+   "end_page": 128,
+   "file": "jild-10-chunk-02.json",
+   "items": 7,
+   "pages_present": 50,
+   "start_page": 79,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 7 items (02a + 02b combined, no overlap), ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 1/1 (as v3), notes 34 vs 32 (+2), glosses 72x 'کا مطلب' + 9x 'کہتے ہیں', A1=0, A2: مردود 8 vs orig 6, لعنت 1/1; 'جاری ہے' x2 both legitimate boundary notes, also in v3. Flags: none."
+  },
+  {
+   "chunk": "03",
+   "description": "Jild 10, pp. 129-173",
+   "end_page": 173,
+   "file": "jild-10-chunk-03.json",
+   "items": 41,
+   "pages_present": 45,
+   "start_page": 129,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 41 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 1/1 (as v3), notes 24/24, glosses 58x 'کا مطلب' + 24x 'کہتے ہیں', A1=0, A2: خبیث x3 + جہنم kept; fixes: \"واعظ نے فرمایا\" → \"کہا\", \"ردالمحتار میں فرمایا\" → \"لکھا ہے\", \"شامی نے فرمایا\" → \"کہا\". Flags: masala-70 absent in the original, as v3 noted."
+  },
+  {
+   "chunk": "04",
+   "description": "Jild 10, pp. 175-216",
+   "end_page": 216,
+   "file": "jild-10-chunk-04.json",
+   "items": 11,
+   "pages_present": 42,
+   "start_page": 175,
+   "status": "done",
+   "verified": "2026-11-18 ~12:15 PKT — coordinator verified: 11 items (masala-72 → masala-85), ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 24 vs 22 (+2 restoration notes; subset check: 0 v3 notes missing/altered), glosses 246x 'کا مطلب' + 9x 'کہتے ہیں', A1=0 real — 1 flag false positive (masala-79: \"فرماتے ہیں\" subject is Imam Ghazali in حیاء العلوم, Yazeed gets no honorific); A2: احمق x3 (pp.176, 177, 182), ملعون x2 (180, 181), شیطان لعین (186), یزید پلید/خبیث/نماز مردود/قول مردود/مردود باغیوں (pp.196-199); no literal کتا in pp.175-216 (all \"کر سکتا ہے\"); restorations: masala-72 wheat-seed passage + 2nd احمق (p.177), coin-on-body test (p.179), thousand-years/peaks-into-kohl (p.182), all 18 hadith Arabic refs + Siddiq Akbar's Arabic وصیت; masala-79 Bukhari's 3 Arabic quotes + fiqh Arabic quotes. No 'جاری ہے', no continues-marker. Flags: none."
+  },
+  {
+   "chunk": "05",
+   "description": "Jild 10, pp. 217-274",
+   "end_page": 274,
+   "file": "jild-10-chunk-05.json",
+   "items": 29,
+   "pages_present": 58,
+   "start_page": 217,
+   "status": "done",
+   "verified": "2026-11-18 ~12:14 PKT — coordinator verified: 29 items (05a + 05b combined), ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 37 vs 36 (+1 v4 merge note; subset check: 0 v3 notes missing/altered), glosses 170x 'کا مطلب' + 28x 'کہتے ہیں', A1=0 real — 1 flag false positive (masala-121 \"فرماتے ہیں\" subject is علمائے دین, Gangohi only identifies the questioner's teacher); A2: خبیث 2/2 (pp.245, 258), کافر 11 + plurals (orig 12 incl. one oblique کافروں p.233), no other harsh terms in original, standalone کتا 0 (all کتاب); 'جاری ہے' x1 legitimate (masala-109-110 \"ثوابِ جاری ہے\", also in v3). DEDUP VERIFIED: masala-87 written ONCE, pages [245, 246], sp 245, 4 notes (3 v3 + 1 added merge note), both halves' tashreeh combined into one flowing passage, v3's \"صفحہ ۲۴۶ پر جاری ہے\" tail and 05b \"بقیہ حصہ\" framing removed. FLAG (minor, for parent): masala-87's two preserved v3 split-meta notes (\"بقیہ اگلے حصے میں ہے\" / \"یہاں صرف صفحہ ۲۴۶ کا…\") are now stale — the merge is complete in this item; the added v4 note explains it. Left as-is per the preserve-v3-notes contract; decide at merge whether to reword."
+  },
+  {
+   "chunk": "06",
+   "description": "Jild 10, pp. 275-308",
+   "end_page": 308,
+   "file": "jild-10-chunk-06.json",
+   "items": 20,
+   "pages_present": 34,
+   "start_page": 275,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 20 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 1/1 (as v3), notes 37 vs 36 (+1), glosses 91x 'کا مطلب' + 7x 'کہتے ہیں', A1=0, A2: خبیث 2, مردود 2, فاسد 3, وہابی 2, رافضی 2, قادیانی 3; restorations: extensive Arabic reinstated. Flag: masala-141 absent in the printed jild, as in v3."
+  },
+  {
+   "chunk": "07",
+   "description": "Jild 10, pp. 309-334",
+   "end_page": 334,
+   "file": "jild-10-chunk-07.json",
+   "items": 7,
+   "pages_present": 26,
+   "start_page": 309,
+   "status": "done",
+   "verified": "2026-11-18 ~12:13 PKT — coordinator verified: 7 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 29 vs 22 (+7), glosses 178x 'کا مطلب' + 1x 'کہتے ہیں', A1=0, A2: فاسق، خبیث، احمق، شیطان کا مقلد، ناپاک وسوسہ، بے باک، آکلِ حرام، گمراہ، لعنت، افتراء kept; restorations: Arabic ayat/hadith/fiqh quotes, masala-156 regained dropped p.324 Ihya passage «المال کلہ للہ». Flag: masala-157 sawal ends abruptly at «زیادہ نیاز» exactly as the original."
+  },
+  {
+   "chunk": "08",
+   "description": "Jild 10, pp. 335-362",
+   "end_page": 362,
+   "file": "jild-10-chunk-08.json",
+   "items": 11,
+   "pages_present": 28,
+   "start_page": 335,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 11 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 22 vs 15 (+7), glosses 175x 'کا مطلب' + 40x 'کہتے ہیں', A1=0 — no opponent names at all; A2: بیوقوفی 2/2, فاجر 2/2, عناد 2/2, فاسق 5, کافر 5; restorations: extensive Arabic references across masail 160-170. Flags: none."
+  },
+  {
+   "chunk": "09",
+   "description": "Jild 10, pp. 363-407",
+   "end_page": 407,
+   "file": "jild-10-chunk-09.json",
+   "items": 19,
+   "pages_present": 45,
+   "start_page": 363,
+   "status": "done",
+   "verified": "2026-11-18 ~12:14 PKT — coordinator verified: 19 items (masala-171 → masala-202), ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 46 vs 29 (+17 restoration notes; subset check: 0 v3 notes missing/altered), glosses 202x 'کا مطلب' + 4x 'کہتے ہیں', A1=0 real — fixed the one real hit (masala-179 sawal, Abdul Ghaffar's \"فرمایا\" → \"کہا\", \"تشریف لائے\" → \"آئے\"); the single grep flag is meta-text in a note describing that fix; A2: ہذیان p.406 ✓ (masala-201), مردود pp.369/377/379/391 ✓ (171/176/180/195), کافر p.372 ✓ (172 کفار، 173 کافر); no کتا insult in this range (all hits inside \"ہوسکتا\"); restorations: Arabic references/hamd where v3 dropped them (171 hamd + ~20 book quotes + closing verse; 196 uses the hashiya-corrected درمختار wording). No 'جاری ہے', no continues-marker. Flags: none."
+  },
+  {
+   "chunk": "10",
+   "description": "Jild 10, pp. 409-452",
+   "end_page": 452,
+   "file": "jild-10-chunk-10.json",
+   "items": 11,
+   "pages_present": 43,
+   "start_page": 409,
+   "status": "done",
+   "verified": "2026-11-18 ~12:17 PKT — coordinator verified: 11 items (10a masala-203 alone + 10b 10 items, combined), ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 1/1 (jild10-p431, as v3), notes 36 vs 34 (+2; subset check: 0 v3 notes missing/altered), glosses 253x 'کا مطلب' + 33x 'کہتے ہیں', A1=0 (گنگوہی plain \"نے… ٹھہرایا\"); A2: مردود pp.410/431/444، فاسد p.419/448، وہابیہ/غیر مقلدین/فجار p.419، نیچری/رافضی/بد مذہب/بے خرد p.424، جہال/جہالت p.429، فساق و فجار p.431، مرتد pp.416-418; \"کتا\" (34 raw hits) all کتاب/ہوسکتا false positives, \"کذاب\" p.418 is Arabic وکذا بموت — none dropped; restorations: p.431 \"اجہل سا اجہل جسے علم کے نام سے بھی مس نہیں\" restored in body; p.413 \"منہ غفرلہ\" (مجھ سے، اللہ مجھے بخشے) added to 203 body; both flagged in added notes. Flags: p.437 absent from source DB and p.408 absent (source gaps, already in v3 notes). Method note: worker used a scripted exact-anchor edit pass over v3 (all anchors asserted 1x) instead of two file-tool calls, since exec writes verified working."
+  },
+  {
+   "chunk": "11",
+   "description": "Jild 10, pp. 454-518",
+   "end_page": 518,
+   "file": "jild-10-chunk-11.json",
+   "items": 9,
+   "pages_present": 61,
+   "start_page": 454,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 9 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 2/2 (as v3), notes 22 vs 20 (+2), glosses 253x 'کا مطلب' + 12x 'کہتے ہیں', A1=0, A2: مردود restored to 4 — v3 had only 1, p.461 softened to رد. Flags: source gaps pp.453/476/486/494/503."
+  },
+  {
+   "chunk": "12",
+   "description": "Jild 10, pp. 520-572",
+   "end_page": 572,
+   "file": "jild-10-chunk-12.json",
+   "items": 21,
+   "pages_present": 50,
+   "start_page": 520,
+   "status": "done",
+   "verified": "2026-11-18 ~12:13 PKT — coordinator verified: 21 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 13/13, glosses 184x 'کا مطلب' + 4x 'کہتے ہیں', A1=0, A2: شیطان، فاسق، کافر، حماقت، فاسد، رافضیوں، جاہلوں kept; worker fixed a lost root `}` at the append boundary before reporting. Flags: pages 519/529/557/567 gaps."
+  },
+  {
+   "chunk": "13",
+   "description": "Jild 10, pp. 573-621",
+   "end_page": 621,
+   "file": "jild-10-chunk-13.json",
+   "items": 1,
+   "pages_present": 49,
+   "start_page": 573,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 1 item, masala-262, 49 pages, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 7 vs 6 (+1), glosses 163x 'کا مطلب' + 13x 'کہتے ہیں', A1=0 real — 2 flags both false positives, verb's subject is Ala Hazrat re: Zahidi's kalam; A2: مردود p594, کافر p615, جہل/جہالت, باطل, فاسد, علیل, تجہیل/تضلیل, بد دین, مجنون; fixes: sawal \"فرما دیا\" → \"کہہ دیا\" for Azam Shah. Flag: p.604 \"کافردہے\" is a transcription garble, noted in note 7."
+  },
+  {
+   "chunk": "14",
+   "description": "Jild 10, pp. 622-661",
+   "end_page": 661,
+   "file": "jild-10-chunk-14.json",
+   "items": 13,
+   "pages_present": 38,
+   "start_page": 622,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 13 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 20 vs 19 (+1), glosses 196x 'کا مطلب' + 5x 'کہتے ہیں', A1=0 real — 1 flag false positive, verb's subject is Imam Zayla'i (Sunni), خلیل merely quoted; A2: فاسد 2x, رافضیوں کا طریقہ p633, شیطانی رسم p660, کذاب p650, خبیث p641, جہنم p648; restorations: p.629 hashiya notes into body. Flags: pp.623 and 653 absent from source DB."
+  },
+  {
+   "chunk": "15",
+   "description": "Jild 10, pp. 662-704",
+   "end_page": 704,
+   "file": "jild-10-chunk-15.json",
+   "items": 16,
+   "pages_present": 42,
+   "start_page": 662,
+   "status": "done",
+   "verified": "2026-11-18 ~12:15 PKT — coordinator verified: 16 items (masala-277 → masala-300), ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 25 vs 15 (+10 restoration notes; subset check: 0 v3 notes missing/altered), glosses 227x 'کا مطلب' + 7x 'کہتے ہیں' (masala-300: 71, masala-283: 33, masala-290: 31), A1=0 (no opponent name anywhere in this chunk); A2: \"کلمہ کفر\" p.664 (281), \"متہور\" p.668 (285), \"جاہلان علم ادعا/جہالت/کاذب و خائن/لئیم الطبع/خسیس دنی الطبع/سفہاء\" pp.680-681 (299), \"مغرور\" p.698 → original's own \"دھوکا میں\" (300), \"لأکذب\" → \"جھوٹا\" p.701 (300), \"کذوبا\" → \"جھوٹے کی تصدیق\" p.704 (300); کتا counts all false positives (ہوسکتا/کتاب), no standalone کتا; \"بیوقوف\" 1x only as definitional gloss of سفہاء; restorations: extensive Arabic (ھذہ ثم حصر البیوت 277, لقیامہ مقامہ خلافۃ 283, 3 الدر المختار passages 290, 5 لباب passages 292, فاکہی 296, عمرۃ فی رمضان تعدل حجۃ معی 297, full Arabic hadiths + Persian verses + sawal Arabic question 300); typo fixed post-write (\"والعبادۃ\" → \"والعبارۃ\", masala-300 sawal, per decoded pp.683-684). Flag: p.663 still missing in source (v3 note kept verbatim). No 'جاری ہے', no continues-marker."
+  },
+  {
+   "chunk": "16",
+   "description": "Jild 10, pp. 705-730",
+   "end_page": 730,
+   "file": "jild-10-chunk-16.json",
+   "items": 14,
+   "pages_present": 25,
+   "start_page": 705,
+   "status": "done",
+   "verified": "2026-11-18 ~12:13 PKT — coordinator verified: 14 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 23 vs 20 (+3), glosses 162x 'کا مطلب' + 12x 'کہتے ہیں', A1=0 — Gangohi is Abdul Ghani Chishti, Sunni, explicitly distinguished in an added note from Deobandi Rashid Ahmad Gangohi, so \"فرماتے ہیں\" for him is correct (same class as the Lucknowi judgement); A2: گمراہ بد دین، سفیہ غافل، سخرہ شیاطین، مردود 8, ملعون، بے دین، کافر, etc.; restorations: Arabic ayahs/hadiths, Durr Mukhtar, Labab, Persian couplet into body. Flag: v3 p.719-gap note preserved."
+  },
+  {
+   "chunk": "17",
+   "description": "Jild 10, pp. 731-775",
+   "end_page": 775,
+   "file": "jild-10-chunk-17.json",
+   "items": 27,
+   "pages_present": 45,
+   "start_page": 731,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 27 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 27/27 (as v3), notes 26/26, glosses 34x 'کا مطلب' + 62x 'کہتے ہیں', A1=0, A2: احمق 1 p753, مردود 4, خبیث p741 hashiya preserved in note as in v3; no restorations needed. Flags: none."
+  },
+  {
+   "chunk": "18",
+   "description": "Jild 10, pp. 776-835",
+   "end_page": 835,
+   "file": "jild-10-chunk-18.json",
+   "items": 12,
+   "pages_present": 59,
+   "start_page": 776,
+   "status": "done",
+   "verified": "2026-11-18 ~12:12 PKT — coordinator verified: 12 items, ids/titles/pages identical+order, vol 50, sp==min all, 0 empty jawab, empty sawal 12/12 (as v3), notes 23 vs 21 (+2), glosses 134x 'کا مطلب' + 41x 'کہتے ہیں', A1=0, A2: only real harsh term مردود p801 restored; \"جہنمی\" 1x is the Quran quote as in v3; restorations: p.782 hashiya 4 into item p781 body, p.801 مردود passage into item p798 body. Flag: p.777 missing from source DB."
+  }
+ ],
+ "total_pages_present": 756,
+ "volume": "Jild 10",
+ "volume_ids": [
+  50
+ ]
+}
